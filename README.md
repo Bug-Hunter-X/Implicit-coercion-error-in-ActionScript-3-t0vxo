@@ -1,0 +1,1 @@
+This repository contains a demonstration of a common ActionScript 3 error: implicit coercion of a Number to a String. The error occurs when attempting to concatenate a Number directly to a String without explicit type conversion. The solution involves using the String() function or the toString() method to explicitly convert the Number to a String before concatenation.
